@@ -1,0 +1,19 @@
+.ion-page {
+    justify-content: flex-start;
+}
+
+ion-checkbox {
+    white-space: normal;
+    max-width: 100%;
+    position: relative;
+    justify-content: start;
+}
+
+ion-checkbox::part(container) {
+    border-radius: 5px;
+}
+
+ion-card-subtitle {
+    text-align: center;
+}
+

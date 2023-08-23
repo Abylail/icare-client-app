@@ -1,0 +1,7 @@
+{
+  "name": "icare-client-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
